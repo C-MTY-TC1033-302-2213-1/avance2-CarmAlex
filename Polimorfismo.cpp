@@ -2,7 +2,11 @@
 Nombre: Carmen Banda Juarez
 Matricula: A01198988
 Carrera: ITC
-Fecha: 25-Mayo-24
+Fecha: 2-Junio-24
+Reflexión:
+- ¿Qué aprendí en el desarrollo de esta clase?
+En esta clase pude ver y aplicar el cómo funcionan los apuntadores y su importancia dentro de la programación
+
 */
 #include "Polimorfismo.h"
 

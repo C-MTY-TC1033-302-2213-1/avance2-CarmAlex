@@ -2,7 +2,11 @@
 Nombre: Carmen Banda Juarez
 Matricula: A01198988
 Carrera: ITC
-Fecha: 20-Mayo-24
+Fecha: 2-Junio-24
+Reflexión:
+- ¿Qué aprendí en el desarrollo de esta clase?
+Al principio pensé que esta clase también era una clase derivada de Video, o más bien una clase derivada de Serie, pero resultó que no
+y que solo era una clase más que podía ser usado por otras clases. 
 */
 
 #include "Episodio.h"

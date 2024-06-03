@@ -2,7 +2,12 @@
 Nombre: Carmen Banda Juarez
 Matricula: A01198988
 Carrera: ITC
-Fecha: 25-Mayo-24
+Fecha: 2-Junio-24
+Reflexión:
+- ¿Qué aprendí en el desarrollo de esta clase?
+En esta clase había dejado de lado la clase str() porque no estaba muy segura de cómo continuar el código, ya que una parte de mi decía:
+"has un loop dentro del return", lo cual pues no es posible y si hubiera un return dentro del for pues también solo se cancelaría, así que 
+pensé que la mejor manera de poder poner una cierta cantidad de strings 
 */
 
 #include "Serie.h"
