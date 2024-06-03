@@ -195,7 +195,7 @@ void Polimorfismo::reportePeliculas(){
     if (cont > 0){
         cout << "Total Peliculas = " << cont << endl;
     } else {
-        cout << "No Peliculas" << endl;
+        cout << "No peliculas" << endl;
     }
     
 }
@@ -216,7 +216,7 @@ void Polimorfismo::reporteSeries(){
     if (cont > 0){
         cout << "Total Series = " << cont << endl;
     } else {
-        cout << "No Series" << endl;
+        cout << "No series" << endl;
     }
 }
 

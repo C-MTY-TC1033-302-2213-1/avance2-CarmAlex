@@ -77,8 +77,14 @@ double Serie::calculaPromedio(){
 }
 
 string Serie::str(){
+    // contador
+    string cont = "";
+    for (int index = 0; index < cantidad; index++){
+        cont += getEpisodio(index).str() + '\n';
+    }
+
     return iD + ' ' + titulo + ' ' + to_string(duracion) + ' ' + genero + ' ' + to_string(calificacion) + ' ' + to_string(cantidad) 
-    + '\n' + getEpisodio(0).str() + '\n';
+    + '\n' + cont;
     // le falta desplegar los episodios que hayan 
 }
 
